@@ -1,7 +1,10 @@
-= unidecode
+= WARNING
 
-A forked version of the unidecode gem to experiment with fixing some encoding issues
-I have been having.
+This is a forked version of the unidecode gem to experiment with fixing some
+encoding issues I've been having. This is *not* the unidecode Gem you should
+use, you want https://rubygems.org/gems/unidecode instead.
+
+= unidecode
 
 A library for transliteratively converting UTF-8 text to US-ASCII.
 
